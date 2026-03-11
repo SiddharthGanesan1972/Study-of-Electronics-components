@@ -24,7 +24,19 @@ Record the application or use of each component in electronic circuits.<br>
 Repeat the above steps for 50 different electronic components and complete the observation table.<br>
 
 # THEORY:
+Electronic components are the basic building blocks of any electronic circuit. They are used to control the flow of current, store electrical energy, amplify signals, and perform switching operations in electronic devices. Electronic components are broadly classified into passive components and active components.
 
+Passive components do not require an external power source for their operation. They mainly store, filter, or dissipate electrical energy. Common passive components include resistors, capacitors, and inductors.
+
+A resistor is used to limit or control the flow of electric current in a circuit.A capacitor stores electrical energy in the form of an electric field and is commonly used in filtering and timing circuits.
+An inductor stores energy in the form of a magnetic field and is used in filtering and tuning circuits.
+
+Active components require an external power source and are capable of controlling or amplifying electrical signals. Examples include diodes, transistors, integrated circuits (ICs), and operational amplifiers.
+A diode allows current to flow only in one direction and is used for rectification.A transistor acts as a switch or amplifier in electronic circuits.
+
+Integrated circuits (ICs) contain many electronic components fabricated on a single semiconductor chip and are widely used in modern electronic systems.
+
+Electronic components are available in different packages, such as through-hole and surface-mount devices (SMD). Each component has a specific symbol, number of terminals, polarity, and electrical value, which must be correctly identified before using it in a circuit.
 
 # OBSERVATION TABLE:
  
